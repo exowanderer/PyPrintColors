@@ -5,7 +5,7 @@
   I copied the code here to share with others and keep for myself; but it was not apparently available elsewhere.
 '''
 
-from Color import *
+from PyPrintColors import *
 
 if __name__ == '__main__':
     print("Base:")
